@@ -1,4 +1,4 @@
-Project Name: Object Detection and Distance Estimation
+Project Name: Object Detector & Estimator
 Description: This project involves estimating the distance of various objects in real-time using a webcam. The system utilizes camera calibration, YOLOv4 for object detection, and the triangular similarity method for distance estimation.
 Table of Contents
 
